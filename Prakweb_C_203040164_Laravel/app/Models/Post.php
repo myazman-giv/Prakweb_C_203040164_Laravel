@@ -28,8 +28,7 @@ class Post
             Necessitatibus voluptates nulla reprehenderit nihil quo voluptatibus omnis tempore ad officiis 
             est iste facere, ex alias, vero explicabo quia eius? Laboriosam aperiam laudantium vitae quae 
             quasi fugit voluptas est explicabo cupiditate eum ducimus, recusandae facere placeat qui odit 
-            ab maxime deleniti excepturi tempora ratione autem impedit? Deleniti voluptate totam minima 
-            molestias, cupiditate cum id accusantium possimus? Quae possimus iste saepe nisi."
+            ab maxime deleniti excepturi tempora ratione autem impedit? kedua."
         ]
     ];
 
