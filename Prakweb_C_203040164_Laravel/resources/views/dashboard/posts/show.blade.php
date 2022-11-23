@@ -14,7 +14,6 @@
       <article class="my-3 fs-5">
         {!! $post->body !!}
       </article>
-      <a class="btn btn-primary mt-4" href="/posts">Back</a>
     </div>
   </div>
 </div>
